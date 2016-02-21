@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Temppurata](temppurata.md)
+* [Temppurata](temppuratamd.md)
 
