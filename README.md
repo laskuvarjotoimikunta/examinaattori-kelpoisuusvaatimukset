@@ -1,8 +1,8 @@
-TYÄmä
+Kouluttajakouluttajan kelpoisuusvaatimukset
 =======
 
 
 ## Suomen Ilmailuliiton Laskuvarjotoimikunta
 
 
-Lähetä palautetta: [www.laskuvarjotoimikunta.fi/lomakkeita/opaspalaute](http://www.laskuvarjotoimikunta.fi/lomakkeita/opaspalaute/)
+Lähetä palautetta sisällöstä: [www.laskuvarjotoimikunta.fi/lomakkeita/opaspalaute](http://www.laskuvarjotoimikunta.fi/lomakkeita/opaspalaute/)
